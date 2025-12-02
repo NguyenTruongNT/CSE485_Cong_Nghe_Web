@@ -1,4 +1,4 @@
-## Báo Cáo - CSE385 Môn Công Nghệ Web 2025
+## Báo Cáo - CSE485 Công Nghệ Web - 2025
 ### Thông Tin Sinh Viên
 
 | Thông tin        | Chi tiết          |
