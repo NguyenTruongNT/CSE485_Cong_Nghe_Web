@@ -1,5 +1,11 @@
-# CSE485_Cong_Nghe_Web
-## 20/11/2025: Hạn phiếu học tập 1 và 2
-## 24/11/2025: Hạn phiếu học tập 3
-## 29/11/2025: Hạn nộp bài thực hành số 01
+## Báo Cáo - CSE485 Công Nghệ Web - 2025
+### Thông Tin Sinh Viên
+
+| Thông tin        | Chi tiết          |
+| :--------------- | :---------------- |
+| **Họ và tên**    | Nguyễn Văn Trường |
+| **Mã sinh viên** | 2351170625        |
+| **Lớp**          | 65KTPM            |
+| **Môn học**      | Công nghệ Web     |
+| **Giảng viên**   | ThS. Tạ Chí Hiếu  |
 
